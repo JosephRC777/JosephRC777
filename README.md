@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/joseph-ramos-calderon-076321170">IT Professional</a>☺</h1>
+<h1>Hi, I'm Joseph, an <a href="https://www.linkedin.com/in/joseph-ramos-calderon-076321170"></a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
