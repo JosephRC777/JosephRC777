@@ -4,7 +4,9 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JosephRC777/osticket-prereqs)
-
+ 
+- <b>Active Directory (Azure)</b>
+  - [On-premises Active Directory Deployed in the Cloud (Azure)](https://github.com/JosephRC777/configure-ad)
 <h2>🤳Connect with me:</h2>
 
 
