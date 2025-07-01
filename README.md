@@ -7,6 +7,8 @@
  
 - <b>Active Directory (Azure)</b>
   - [On-premises Active Directory Deployed in the Cloud (Azure)](https://github.com/JosephRC777/configure-ad)
+- <b>Network Files and Permissions</b>
+  - [Network File Shares and Permissions](https:https://github.com/JosephRC777/permissionsandfileshares)
 <h2>🤳Connect with me:</h2>
 
 
