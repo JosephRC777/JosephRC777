@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JosephRC777/osticket-prereqs)
- 
+  - [osTicket: Post-Install Configuration](https://github.com/JosephRC777/post-install-config)
 - <b>Active Directory (Azure)</b>
   - [On-premises Active Directory Deployed in the Cloud (Azure)](https://github.com/JosephRC777/configure-ad)
 - <b>Network Files and Permissions</b>
